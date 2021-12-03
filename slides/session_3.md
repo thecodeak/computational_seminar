@@ -164,4 +164,4 @@ Pablo Winant
 
 ### Using VSCode
 
-![VSCode](../vscode_git.png)
+![VSCode](vscode_git.png)
